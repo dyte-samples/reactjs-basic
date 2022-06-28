@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+div {
+  text-align: center;
+}
+
+img {
+  align-self: center;
+  height: 10vmin;
+  pointer-events: none;
+}
+
+input {
+  padding: 10px;
+  margin: 5px;
+}
+
+button {
+  padding: 10px;
+  margin: 5px;
+}
